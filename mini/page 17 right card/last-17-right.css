@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.last-17-right-section {
+    background-color: white;
+}
+
+.last-17-right-item-card {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card {
+    background-color: #fe885d;
+    background-size: cover;
+    height: 65px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head-card-heading-1 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color:#414140;
+}
+
+.head-card-heading-2 {
+    margin-top: 5px;
+    margin-right: 10px;
+    font-size: 15px;
+    color:#414140;
+}
+
+.body-card-heading {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#subject {
+    height: 200px;
+    width: 600px;
+    border-color: skyblue;
+}
+
+ul {
+  list-style: none;
+}
+
+
+ul li::before {
+    content: "\2022";
+    color:  #fe885d;
+    display: inline-block; 
+    width: 0.5em;
+    font-size: 2rem;
+    margin-left: -1em;
+
+  }
+
+#location-card-Item2 {
+    color: #fe885d;
+    background-color: transparent;
+    height: 35px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fe885d;
+}
+
+#location-card-Item3 {
+    background-color: #dadada;
+    color:#aaa9a9;
+    height: 35px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 12px;
+}

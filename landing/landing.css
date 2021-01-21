@@ -1,0 +1,362 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#middle {
+    text-align: center;
+}
+
+#navItem1 {
+    margin-left: 200px;
+    color: black;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+#navItem2 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+#navItem3 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+#navItem4 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+#navItem5 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+#navItem6 {
+    background-color: #242a42;
+    color: white;
+    font-family: "Roboto";
+    font-weight: 600;
+    border-width: 0;
+}
+
+.banner-section {
+    margin-top: 150px;
+}
+
+.banner-heading-1 {
+    color: #fe885d;
+    padding-top: 40px;
+    font-size: 30px;
+}
+.banner-heading-2 {
+    color: #fe885d;
+    font-size: 30px;
+}
+
+.banner-caption {
+    color: black;
+    font-size: 20px;
+}
+
+.banner-image{
+    margin-left: 160px;
+    height: 350px
+}
+
+#bannerItem1 {
+    background-image: linear-gradient(#fd7973,#fe8463);
+    color: white;
+    height: 50px;
+    width: 180px;
+}
+
+
+#bannerItem2 {
+    background-color: #242a42;
+    color: white;
+    height: 50px;
+    width: 180px;
+}
+
+.count-banner-section {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.text-part {
+    margin-left: 200px;
+}
+
+.count-banner-heading {
+    font-size: 30px;
+}
+
+.count-image {
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(#fd7973,#fe8463);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-left: 50px;
+}
+
+.input-group {
+    margin-left: 50px;
+}
+
+.placeholder-1 {
+    border-width: 0;
+    height: 50px;
+    width: 500px;
+    padding-left: 20px;
+
+}
+
+#searchItem {
+    background-color: #fe885d;
+    color: white;
+    width: 130px;
+    height: 50px;
+    border-width: 0;
+}
+
+.data {
+    margin-top: 2.6em;
+    color: black; 
+    margin-left: -30px;
+}
+
+.data li {
+ width: 32%;
+text-align: center;
+ display: inline-block;
+font-size: 1.5em;
+font-family: 'Lato';
+border-right: solid 1px  #fe885d;
+}
+
+
+.data li:last-child {
+border: none;
+}
+
+.data li span 
+{
+  display: block;
+  text-transform: uppercase;
+  font-family: "Roboto";
+  font-size: .5em;
+  margin-top: .6em;
+
+}
+
+.FQTAA-section {
+    margin-top: 150px;
+}
+
+.FQTAA-icon {
+    background-color: #fd7973;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+
+.FQTAA-section-heading{
+    font-size: 30px;
+}
+
+.FQTAA-card-title {
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.FQTAA-card-caption {
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.FQTAA-section-link {
+    color: #fe885d;
+}
+
+.HIW-section {
+    margin-top: 150px;
+    text-align: center;
+}
+
+#HIWItem1 {
+    background-image: linear-gradient(#fd7973,#fe8463);
+    color: white;
+    height: 50px;
+    width: 180px;
+    border-radius: 25px;
+}
+
+.HIW-section-heading {
+    font-size: 30px;
+}
+
+.HIW-section-heading-1 {
+    font-size: 20px;
+}
+
+.HireForAnyScope-card {
+    height: 600px;
+    width: 400px;
+    position: relative;
+    background-image: linear-gradient(#fd7973,#fe885d);
+    clip-path: polygon(0 0, 60% 0, 100% 54%, 0 54%);
+}
+
+.HireForAnyScope-heading {
+    padding-top: 200px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.HireForAnyScope-mini-card {
+    margin: 10px;
+}
+
+.HireForAnyScope-mini-heading {
+    font-size: 20px;
+}
+
+.HireForAnyScope-mini-para {
+    font-size: 15px;
+    color: rgb(117, 117, 117);
+    font-weight: bold;
+}
+
+.HireForAnyScope-icon {
+    background-color: #ffe1e0;
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    margin-left: 80px;
+    padding: 10px;
+
+}
+
+
+.MoneyProtection-image {
+    height: 400px;
+    width: 400px;
+    margin-top: 120px;
+    margin-left: 80px;
+}
+
+.MoneyProtection-heading-1 {
+    color: #fe885d;
+    font-size: 30px;
+}
+
+.MoneyProtection-heading-2 {
+    color: black;
+    font-size: 30px;
+}
+
+.MoneyProtection-heading-3 {
+    border-left: solid 2px  #fe885d;
+    color: black;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.MoneyProtection-para {
+    border-left: solid 2px  #fe885d;
+    color:  rgb(117, 117, 117);
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.EXTRA-section {
+    margin-top: 120px;
+}
+
+
+.get-the-app-section {
+    margin-top: 150px;
+}
+
+.get-the-app-heading {
+    color: black;
+    font-size: 30px;
+}
+
+.get-the-app-caption {
+    color: black;
+    font-size: 12px;
+    font-weight: 670;
+}
+
+.get-the-app-heading-1 {
+    color: #fe885d;
+    font-size: 30px;
+}
+
+.get-the-app-bg {
+    height: 300px;
+    width: 300px;
+    background-image: linear-gradient(#fd7973,#fe8463);
+    border-radius: 160px;
+    margin-left: 250px;
+    position: relative;
+}
+
+.get-the-app-image {
+    height: 300px;
+    width: 300px;
+    /* background-image: linear-gradient(#fd7973,#fe8463);
+    border-radius: 160px;
+    margin-left: 250px; */
+}
+
+
+.reviews {
+    width: 100vw;
+    height: 150px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.reviews-head {
+    font-size: 25px;
+}
+
+.reviews-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+}
+
+.placeholder-2 {
+    border-width: 0;
+    height: 50px;
+    width: 250px;
+    padding-left: 20px;
+
+}
+
+#sendItem {
+    background-color: #fe885d;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-width: 0;
+}
+
+.question-head {
+    font-size: 25px; 
+}
+
+.question-para {
+    font-size: 15px; 
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.last-23-right-section {
+    background-color: white;
+}
+
+.last-23-right-item-card {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card {
+    background-color: #fe885d;
+    background-size: cover;
+    height: 65px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.head-card-heading-1 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    color:#414140;
+}
+
+.head-card-heading-2 {
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-right: 10px;
+    font-size: 15px;
+    color:#414140;
+}
+
+#head-card-icon-1 {
+    color:#fe885d;
+    padding:5px;
+    border-radius:25px;
+    background-color: white;
+}
+
+.body-card-heading {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#body-card-icon-1 {
+    color: black;
+    padding:5px;
+    border-radius:25px;
+    background-color: white;
+}
+
+#body-card-icon-2 {
+    color:#fe885d;
+    padding:5px;
+    border-radius:25px;
+    background-color: white;
+}

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.last-right-section {
+    background-color: white;
+}
+
+.menu-item-card {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card {
+    background-color: #fe885d;
+    background-size: cover;
+    height: 65px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.body-card-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#location-card-Item2 {
+    color: #fe885d;
+    background-color: transparent;
+    height: 35px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fe885d;
+}
+
+#location-card-Item3 {
+    background-color: #dadada;
+    color:#aaa9a9;
+    height: 35px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 12px;
+}
+
