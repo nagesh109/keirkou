@@ -1,0 +1,120 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.box1{
+    
+    display: grid;
+    grid-template-rows: 1fr 3fr 1fr;
+    width: 516px;
+    margin-top: 25px;
+    height: 330px;
+}
+
+#a3221{
+    font-weight: bold;
+}
+.get{
+    
+    background-color: rgb(252, 156, 140);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    width: 513px;
+    height: 50px;
+}
+
+.get p{
+    padding: 17px 28px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+.vertical-center{
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    left: 38%;
+}
+
+.vertical-center button{
+    background-color:rgb(253, 129, 107);
+    color: white;
+    width: 95px;
+    height: 25px;
+    border-radius: 3px;
+    border-style: none;
+}
+
+.box2{
+    margin-left: 55px;
+}
+
+#a2556{
+    width: 105px;
+    height: 32px;
+    border-style: none;
+    border-radius: 22px;
+    background-color: rgb(83, 28, 83);
+    color: white;
+}
+
+#a2557{
+    width: 145px;
+    margin-left: 8px;
+    height: 32px;
+    border-style: none;
+    border-radius: 22px;
+    background-color: rgb(253, 129, 107);
+    color: white;
+}
+
+.desig{
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-left: 7px;
+}
+
+.neer{
+    
+    width: 126px;
+    height: 38px;
+    background-color: rgb(211, 211, 211);
+    margin: 5px;
+    border-radius: 6px;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.sful{
+    margin-top: 16px;
+    font:message-box;
+}
+
+.b6552{
+
+    
+    width: 266px;
+    height: 233px;
+    margin-top: 9px;
+    padding: 9px;
+}
+
+.b6552 button{
+    width: 182px;
+    height: 33px;
+    margin-left: 45px;
+    border-radius: 6px;
+    border-style: none;
+    background-color:  rgb(253, 129, 107) ;
+    color: white;
+}
+
+#b3336{
+    color: rgb(206, 205, 205);
+}
+
+#b3337{
+    color:  rgb(253, 129, 107);
+}

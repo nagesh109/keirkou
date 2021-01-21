@@ -1,0 +1,41 @@
+.box{
+    display: grid;
+    grid-template-rows: 54px 0px;
+    width: 441px;
+    height: 245px;
+    background-color: rgb(240, 240, 240);
+
+}
+
+.bill{
+    width: 440px;
+    height: 50px;
+    background: rgb(214, 213, 213);
+
+}
+
+.bill p{
+    margin-left: 44px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.paym{
+       width: 440px;
+    height: 186px;
+}
+
+.ard{
+    margin: 27px 40px;
+}
+
+#pall {
+    width: 235px;
+    height: 31px;
+    background-color: rgb(253, 115, 115);
+    color: white;
+    font-variant: inherit;
+    border-style: none;
+    border-radius: 6px;
+    margin: 22px 29px;
+}
